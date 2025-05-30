@@ -380,3 +380,4 @@
 2025-05-30 10:42:00 -0400 — docs: update invoice/receipt notes
 2025-05-30 10:43:00 -0400 — docs: refine requirements & scope
 2025-05-30 12:39:00 -0400 — docs: note DB constraint or index idea
+2025-05-30 14:19:00 -0400 — docs: note DB constraint or index idea
