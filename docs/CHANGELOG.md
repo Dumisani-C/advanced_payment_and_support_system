@@ -381,3 +381,4 @@
 2025-05-30 10:43:00 -0400 — docs: refine requirements & scope
 2025-05-30 12:39:00 -0400 — docs: note DB constraint or index idea
 2025-05-30 14:19:00 -0400 — docs: note DB constraint or index idea
+2025-06-02 10:51:00 -0400 — docs: revise README wording
