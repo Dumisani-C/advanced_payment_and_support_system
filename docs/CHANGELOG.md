@@ -388,3 +388,4 @@
 2025-06-02 16:11:00 -0400 — docs: update testing scenarios
 2025-06-03 13:18:00 -0400 — docs: expand legal/ethics notes
 2025-06-03 14:51:00 -0400 — docs: tidy CSS/UX notes
+2025-06-03 15:28:00 -0400 — docs: deployment steps tweak
