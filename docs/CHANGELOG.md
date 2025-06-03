@@ -390,3 +390,4 @@
 2025-06-03 14:51:00 -0400 — docs: tidy CSS/UX notes
 2025-06-03 15:28:00 -0400 — docs: deployment steps tweak
 2025-06-03 16:28:00 -0400 — docs: note DB constraint or index idea
+2025-06-03 17:16:00 -0400 — docs: clarify admin/tenant flows
