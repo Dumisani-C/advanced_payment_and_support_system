@@ -392,3 +392,4 @@
 2025-06-03 16:28:00 -0400 — docs: note DB constraint or index idea
 2025-06-03 17:16:00 -0400 — docs: clarify admin/tenant flows
 2025-06-04 10:48:00 -0400 — docs: refine requirements & scope
+2025-06-04 15:02:00 -0400 — docs: clarify admin/tenant flows
