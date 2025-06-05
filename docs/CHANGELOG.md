@@ -396,3 +396,4 @@
 2025-06-04 15:58:00 -0400 — docs: update invoice/receipt notes
 2025-06-05 09:21:00 -0400 — docs: deployment steps tweak
 2025-06-05 14:36:00 -0400 — docs: update reporting/analytics notes
+2025-06-05 15:34:00 -0400 — docs: revise README wording
