@@ -394,3 +394,4 @@
 2025-06-04 10:48:00 -0400 — docs: refine requirements & scope
 2025-06-04 15:02:00 -0400 — docs: clarify admin/tenant flows
 2025-06-04 15:58:00 -0400 — docs: update invoice/receipt notes
+2025-06-05 09:21:00 -0400 — docs: deployment steps tweak
