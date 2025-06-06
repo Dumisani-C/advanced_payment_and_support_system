@@ -400,3 +400,4 @@
 2025-06-06 10:18:00 -0400 — docs: clarify admin/tenant flows
 2025-06-06 10:31:00 -0400 — docs: tidy CSS/UX notes
 2025-06-06 11:53:00 -0400 — docs: update invoice/receipt notes
+2025-06-06 14:37:00 -0400 — docs: note DB constraint or index idea
