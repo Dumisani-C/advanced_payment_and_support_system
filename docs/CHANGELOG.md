@@ -402,3 +402,4 @@
 2025-06-06 11:53:00 -0400 — docs: update invoice/receipt notes
 2025-06-06 14:37:00 -0400 — docs: note DB constraint or index idea
 2025-06-07 10:17:00 -0400 — docs: expand legal/ethics notes
+2025-06-08 14:22:00 -0400 — docs: clarify admin/tenant flows
