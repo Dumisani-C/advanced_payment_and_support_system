@@ -404,3 +404,4 @@
 2025-06-07 10:17:00 -0400 — docs: expand legal/ethics notes
 2025-06-08 14:22:00 -0400 — docs: clarify admin/tenant flows
 2025-06-08 17:04:00 -0400 — docs: deployment steps tweak
+2025-06-09 10:16:00 -0400 — docs: expand legal/ethics notes
