@@ -407,3 +407,4 @@
 2025-06-09 10:16:00 -0400 — docs: expand legal/ethics notes
 2025-06-09 11:31:00 -0400 — docs: update invoice/receipt notes
 2025-06-09 12:09:00 -0400 — docs: revise README wording
+2025-06-10 10:25:00 -0400 — docs: deployment steps tweak
