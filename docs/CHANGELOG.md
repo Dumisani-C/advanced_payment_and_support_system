@@ -409,3 +409,4 @@
 2025-06-09 12:09:00 -0400 — docs: revise README wording
 2025-06-10 10:25:00 -0400 — docs: deployment steps tweak
 2025-06-10 12:12:00 -0400 — docs: tidy CSS/UX notes
+2025-06-11 10:42:00 -0400 — docs: clarify admin/tenant flows
