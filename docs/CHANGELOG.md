@@ -413,3 +413,4 @@
 2025-06-12 10:27:00 -0400 — docs: revise README wording
 2025-06-12 11:44:00 -0400 — docs: deployment steps tweak
 2025-06-13 13:31:00 -0400 — docs: tidy CSS/UX notes
+2025-06-13 15:04:00 -0400 — docs: deployment steps tweak
