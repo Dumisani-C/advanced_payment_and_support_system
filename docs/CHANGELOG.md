@@ -416,3 +416,4 @@
 2025-06-13 15:04:00 -0400 — docs: deployment steps tweak
 2025-06-13 18:50:00 -0400 — docs: refine requirements & scope
 2025-06-16 13:10:00 -0400 — docs: update invoice/receipt notes
+2025-06-16 14:43:00 -0400 — docs: update reporting/analytics notes
