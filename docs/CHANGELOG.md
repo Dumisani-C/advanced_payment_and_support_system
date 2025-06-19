@@ -422,3 +422,4 @@
 2025-06-18 11:21:00 -0400 — docs: update invoice/receipt notes
 2025-06-18 12:36:00 -0400 — docs: update reporting/analytics notes
 2025-06-18 14:14:00 -0400 — docs: tidy CSS/UX notes
+2025-06-19 10:52:00 -0400 — docs: note DB constraint or index idea
