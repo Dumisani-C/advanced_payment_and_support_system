@@ -425,3 +425,4 @@
 2025-06-19 10:52:00 -0400 — docs: note DB constraint or index idea
 2025-06-19 12:08:00 -0400 — docs: update invoice/receipt notes
 2025-06-19 13:50:00 -0400 — docs: update reporting/analytics notes
+2025-06-19 14:15:00 -0400 — docs: clarify admin/tenant flows
