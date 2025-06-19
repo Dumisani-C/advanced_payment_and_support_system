@@ -427,3 +427,4 @@
 2025-06-19 13:50:00 -0400 — docs: update reporting/analytics notes
 2025-06-19 14:15:00 -0400 — docs: clarify admin/tenant flows
 2025-06-19 17:19:00 -0400 — docs: expand legal/ethics notes
+2025-06-19 18:24:00 -0400 — docs: revise README wording
