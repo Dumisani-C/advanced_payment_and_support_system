@@ -430,3 +430,4 @@
 2025-06-19 18:24:00 -0400 — docs: revise README wording
 2025-06-20 10:33:00 -0400 — docs: expand legal/ethics notes
 2025-06-20 12:52:00 -0400 — docs: revise README wording
+2025-06-20 15:10:00 -0400 — docs: refine requirements & scope
