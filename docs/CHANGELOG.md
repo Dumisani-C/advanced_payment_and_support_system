@@ -432,3 +432,4 @@
 2025-06-20 12:52:00 -0400 — docs: revise README wording
 2025-06-20 15:10:00 -0400 — docs: refine requirements & scope
 2025-06-20 15:50:00 -0400 — docs: revise README wording
+2025-06-22 12:54:00 -0400 — docs: update testing scenarios
