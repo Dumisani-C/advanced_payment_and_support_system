@@ -436,3 +436,4 @@
 2025-06-22 14:48:00 -0400 — docs: refine requirements & scope
 2025-06-23 10:38:00 -0400 — docs: deployment steps tweak
 2025-06-23 11:02:00 -0400 — docs: revise README wording
+2025-06-23 11:12:00 -0400 — docs: update reporting/analytics notes
