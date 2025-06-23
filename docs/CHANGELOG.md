@@ -437,3 +437,4 @@
 2025-06-23 10:38:00 -0400 — docs: deployment steps tweak
 2025-06-23 11:02:00 -0400 — docs: revise README wording
 2025-06-23 11:12:00 -0400 — docs: update reporting/analytics notes
+2025-06-23 13:39:00 -0400 — docs: note DB constraint or index idea
