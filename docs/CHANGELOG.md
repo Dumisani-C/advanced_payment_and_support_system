@@ -441,3 +441,4 @@
 2025-06-23 16:33:00 -0400 — docs: update reporting/analytics notes
 2025-06-24 10:19:00 -0400 — docs: update testing scenarios
 2025-06-25 11:16:00 -0400 — docs: clarify admin/tenant flows
+2025-06-25 11:40:00 -0400 — docs: note DB constraint or index idea
