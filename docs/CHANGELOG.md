@@ -444,3 +444,4 @@
 2025-06-25 11:40:00 -0400 — docs: note DB constraint or index idea
 2025-06-25 15:42:00 -0400 — docs: deployment steps tweak
 2025-06-26 09:38:00 -0400 — docs: clarify admin/tenant flows
+2025-06-26 10:08:00 -0400 — docs: update reporting/analytics notes
