@@ -447,3 +447,4 @@
 2025-06-26 10:08:00 -0400 — docs: update reporting/analytics notes
 2025-06-26 10:29:00 -0400 — docs: update testing scenarios
 2025-06-26 12:49:00 -0400 — docs: deployment steps tweak
+2025-06-26 13:47:00 -0400 — docs: update invoice/receipt notes
