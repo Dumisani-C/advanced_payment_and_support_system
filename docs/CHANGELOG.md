@@ -451,3 +451,4 @@
 2025-06-26 14:03:00 -0400 — docs: update reporting/analytics notes
 2025-06-27 09:00:00 -0400 — docs: update testing scenarios
 2025-06-27 14:24:00 -0400 — docs: update invoice/receipt notes
+2025-06-27 15:36:00 -0400 — docs: note DB constraint or index idea
