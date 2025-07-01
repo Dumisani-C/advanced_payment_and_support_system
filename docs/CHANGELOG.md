@@ -455,3 +455,4 @@
 2025-06-30 18:28:00 -0400 — docs: revise README wording
 2025-07-01 11:30:00 -0400 — docs: update testing scenarios
 2025-07-01 12:17:00 -0400 — docs: deployment steps tweak
+2025-07-01 12:33:00 -0400 — docs: expand legal/ethics notes
