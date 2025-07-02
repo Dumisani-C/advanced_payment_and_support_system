@@ -460,3 +460,4 @@
 2025-07-01 15:40:00 -0400 — docs: refine requirements & scope
 2025-07-02 12:17:00 -0400 — docs: update invoice/receipt notes
 2025-07-02 13:48:00 -0400 — docs: refine requirements & scope
+2025-07-02 15:07:00 -0400 — docs: revise README wording
