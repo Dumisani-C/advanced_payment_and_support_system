@@ -465,3 +465,4 @@
 2025-07-04 13:06:00 -0400 — docs: expand legal/ethics notes
 2025-07-05 16:31:00 -0400 — docs: revise README wording
 2025-07-07 11:02:00 -0400 — docs: tidy CSS/UX notes
+2025-07-07 11:44:00 -0400 — docs: update testing scenarios
