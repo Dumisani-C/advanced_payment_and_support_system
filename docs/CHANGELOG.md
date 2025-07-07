@@ -467,3 +467,4 @@
 2025-07-07 11:02:00 -0400 — docs: tidy CSS/UX notes
 2025-07-07 11:44:00 -0400 — docs: update testing scenarios
 2025-07-07 16:08:00 -0400 — docs: update testing scenarios
+2025-07-07 16:49:00 -0400 — docs: revise README wording
