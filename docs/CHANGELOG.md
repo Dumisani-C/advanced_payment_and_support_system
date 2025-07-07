@@ -464,3 +464,4 @@
 2025-07-03 09:05:00 -0400 — docs: note DB constraint or index idea
 2025-07-04 13:06:00 -0400 — docs: expand legal/ethics notes
 2025-07-05 16:31:00 -0400 — docs: revise README wording
+2025-07-07 11:02:00 -0400 — docs: tidy CSS/UX notes
