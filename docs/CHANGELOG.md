@@ -476,3 +476,4 @@
 2025-07-10 11:28:00 -0400 — docs: tidy CSS/UX notes
 2025-07-10 12:16:00 -0400 — docs: tidy CSS/UX notes
 2025-07-10 13:32:00 -0400 — docs: tidy CSS/UX notes
+2025-07-10 14:52:00 -0400 — docs: note DB constraint or index idea
