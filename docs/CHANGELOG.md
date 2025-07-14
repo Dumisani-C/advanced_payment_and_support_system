@@ -483,3 +483,4 @@
 2025-07-11 14:32:00 -0400 — docs: update testing scenarios
 2025-07-11 14:38:00 -0400 — docs: update invoice/receipt notes
 2025-07-11 16:37:00 -0400 — docs: deployment steps tweak
+2025-07-14 10:20:00 -0400 — docs: note DB constraint or index idea
