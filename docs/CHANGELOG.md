@@ -485,3 +485,4 @@
 2025-07-11 16:37:00 -0400 — docs: deployment steps tweak
 2025-07-14 10:20:00 -0400 — docs: note DB constraint or index idea
 2025-07-14 10:23:00 -0400 — docs: note DB constraint or index idea
+2025-07-14 11:02:00 -0400 — docs: note DB constraint or index idea
