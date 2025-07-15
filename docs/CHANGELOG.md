@@ -487,3 +487,4 @@
 2025-07-14 10:23:00 -0400 — docs: note DB constraint or index idea
 2025-07-14 11:02:00 -0400 — docs: note DB constraint or index idea
 2025-07-14 12:21:00 -0400 — docs: update reporting/analytics notes
+2025-07-15 11:39:00 -0400 — docs: update reporting/analytics notes
