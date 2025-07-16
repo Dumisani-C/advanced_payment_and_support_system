@@ -491,3 +491,4 @@
 2025-07-15 14:16:00 -0400 — docs: clarify admin/tenant flows
 2025-07-16 10:41:00 -0400 — docs: expand legal/ethics notes
 2025-07-16 12:27:00 -0400 — docs: update invoice/receipt notes
+2025-07-16 14:19:00 -0400 — docs: revise README wording
