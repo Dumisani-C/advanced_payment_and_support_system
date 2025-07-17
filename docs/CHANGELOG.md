@@ -495,3 +495,4 @@
 2025-07-17 11:07:00 -0400 — docs: note DB constraint or index idea
 2025-07-17 12:26:00 -0400 — docs: expand legal/ethics notes
 2025-07-17 15:03:00 -0400 — docs: refine requirements & scope
+2025-07-17 15:29:00 -0400 — docs: expand legal/ethics notes
