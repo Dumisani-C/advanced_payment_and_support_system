@@ -493,3 +493,4 @@
 2025-07-16 12:27:00 -0400 — docs: update invoice/receipt notes
 2025-07-16 14:19:00 -0400 — docs: revise README wording
 2025-07-17 11:07:00 -0400 — docs: note DB constraint or index idea
+2025-07-17 12:26:00 -0400 — docs: expand legal/ethics notes
