@@ -501,3 +501,4 @@
 2025-07-18 11:29:00 -0400 — docs: clarify admin/tenant flows
 2025-07-18 12:35:00 -0400 — docs: update invoice/receipt notes
 2025-07-18 13:26:00 -0400 — docs: deployment steps tweak
+2025-07-18 14:46:00 -0400 — docs: update invoice/receipt notes
