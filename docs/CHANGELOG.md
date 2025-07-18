@@ -497,3 +497,4 @@
 2025-07-17 15:03:00 -0400 — docs: refine requirements & scope
 2025-07-17 15:29:00 -0400 — docs: expand legal/ethics notes
 2025-07-17 16:00:00 -0400 — docs: refine requirements & scope
+2025-07-18 10:22:00 -0400 — docs: clarify admin/tenant flows
