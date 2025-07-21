@@ -505,3 +505,4 @@
 2025-07-20 11:12:00 -0400 — docs: tidy CSS/UX notes
 2025-07-21 14:19:00 -0400 — docs: revise README wording
 2025-07-21 16:20:00 -0400 — docs: update testing scenarios
+2025-07-21 16:49:00 -0400 — docs: deployment steps tweak
