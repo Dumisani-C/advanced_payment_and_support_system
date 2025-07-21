@@ -504,3 +504,4 @@
 2025-07-18 14:46:00 -0400 — docs: update invoice/receipt notes
 2025-07-20 11:12:00 -0400 — docs: tidy CSS/UX notes
 2025-07-21 14:19:00 -0400 — docs: revise README wording
+2025-07-21 16:20:00 -0400 — docs: update testing scenarios
