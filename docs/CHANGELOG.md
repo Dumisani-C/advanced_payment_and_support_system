@@ -506,3 +506,27 @@
 2025-07-21 14:19:00 -0400 — docs: revise README wording
 2025-07-21 16:20:00 -0400 — docs: update testing scenarios
 2025-07-21 16:49:00 -0400 — docs: deployment steps tweak
+2025-07-22 09:07:00 -0400 — docs: clarify admin/tenant flows
+2025-07-22 10:57:00 -0400 — docs: note DB constraint or index idea
+2025-07-22 11:49:00 -0400 — docs: clarify admin/tenant flows
+2025-07-22 14:21:00 -0400 — docs: clarify admin/tenant flows
+2025-07-22 14:47:00 -0400 — docs: update testing scenarios
+2025-07-24 11:42:00 -0400 — docs: deployment steps tweak
+2025-07-24 12:38:00 -0400 — docs: expand legal/ethics notes
+2025-07-25 10:18:00 -0400 — docs: update testing scenarios
+2025-07-25 11:00:00 -0400 — docs: note DB constraint or index idea
+2025-07-28 13:50:00 -0400 — docs: expand legal/ethics notes
+2025-07-28 14:16:00 -0400 — docs: note DB constraint or index idea
+2025-07-28 17:29:00 -0400 — docs: update reporting/analytics notes
+2025-07-29 15:13:00 -0400 — docs: refine requirements & scope
+2025-07-29 16:19:00 -0400 — docs: expand legal/ethics notes
+2025-07-30 11:11:00 -0400 — docs: tidy CSS/UX notes
+2025-07-30 11:46:00 -0400 — docs: clarify admin/tenant flows
+2025-07-30 14:12:00 -0400 — docs: note DB constraint or index idea
+2025-07-30 15:48:00 -0400 — docs: tidy CSS/UX notes
+2025-07-31 11:33:00 -0400 — docs: tidy CSS/UX notes
+2025-07-31 13:04:00 -0400 — docs: expand legal/ethics notes
+2025-08-01 09:14:00 -0400 — docs: revise README wording
+2025-08-04 12:08:00 -0400 — docs: update reporting/analytics notes
+2025-08-04 14:03:00 -0400 — docs: revise README wording
+2025-08-04 14:50:00 -0400 — docs: expand legal/ethics notes
