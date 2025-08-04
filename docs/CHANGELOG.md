@@ -530,3 +530,4 @@
 2025-08-04 12:08:00 -0400 — docs: update reporting/analytics notes
 2025-08-04 14:03:00 -0400 — docs: revise README wording
 2025-08-04 14:50:00 -0400 — docs: expand legal/ethics notes
+2025-08-04 16:17:00 -0400 — docs: note DB constraint or index idea
