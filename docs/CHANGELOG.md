@@ -534,3 +534,4 @@
 2025-08-04 18:28:00 -0400 — docs: clarify admin/tenant flows
 2025-08-05 11:06:00 -0400 — docs: clarify admin/tenant flows
 2025-08-06 10:40:00 -0400 — docs: update testing scenarios
+2025-08-06 14:46:00 -0400 — docs: refine requirements & scope
