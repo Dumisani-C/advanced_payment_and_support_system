@@ -539,3 +539,4 @@
 2025-08-07 14:39:00 -0400 — docs: tidy CSS/UX notes
 2025-08-08 10:58:00 -0400 — docs: update invoice/receipt notes
 2025-08-08 12:31:00 -0400 — docs: note DB constraint or index idea
+2025-08-08 15:52:00 -0400 — docs: update reporting/analytics notes
