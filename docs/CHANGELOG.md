@@ -537,3 +537,4 @@
 2025-08-06 14:46:00 -0400 — docs: refine requirements & scope
 2025-08-07 09:41:00 -0400 — docs: expand legal/ethics notes
 2025-08-07 14:39:00 -0400 — docs: tidy CSS/UX notes
+2025-08-08 10:58:00 -0400 — docs: update invoice/receipt notes
