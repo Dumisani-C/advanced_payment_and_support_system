@@ -543,3 +543,4 @@
 2025-08-11 11:15:00 -0400 — docs: expand legal/ethics notes
 2025-08-11 13:21:00 -0400 — docs: clarify admin/tenant flows
 2025-08-11 15:40:00 -0400 — docs: note DB constraint or index idea
+2025-08-11 16:08:00 -0400 — docs: tidy CSS/UX notes
