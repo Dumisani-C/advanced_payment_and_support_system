@@ -546,3 +546,4 @@
 2025-08-11 16:08:00 -0400 — docs: tidy CSS/UX notes
 2025-08-12 09:52:00 -0400 — docs: update invoice/receipt notes
 2025-08-12 11:20:00 -0400 — docs: update testing scenarios
+2025-08-12 13:09:00 -0400 — docs: expand legal/ethics notes
