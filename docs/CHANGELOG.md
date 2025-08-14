@@ -554,3 +554,4 @@
 2025-08-14 10:21:00 -0400 — docs: expand legal/ethics notes
 2025-08-14 11:47:00 -0400 — docs: note DB constraint or index idea
 2025-08-14 12:21:00 -0400 — docs: update invoice/receipt notes
+2025-08-14 13:20:00 -0400 — docs: clarify admin/tenant flows
