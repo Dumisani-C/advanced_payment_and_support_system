@@ -551,3 +551,4 @@
 2025-08-13 10:10:00 -0400 — docs: tidy CSS/UX notes
 2025-08-13 13:41:00 -0400 — docs: update invoice/receipt notes
 2025-08-13 18:54:00 -0400 — docs: note DB constraint or index idea
+2025-08-14 10:21:00 -0400 — docs: expand legal/ethics notes
