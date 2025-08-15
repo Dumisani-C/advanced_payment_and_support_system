@@ -558,3 +558,4 @@
 2025-08-14 14:49:00 -0400 — docs: update invoice/receipt notes
 2025-08-15 10:00:00 -0400 — docs: refine requirements & scope
 2025-08-15 10:33:00 -0400 — docs: revise README wording
+2025-08-15 11:14:00 -0400 — docs: refine requirements & scope
