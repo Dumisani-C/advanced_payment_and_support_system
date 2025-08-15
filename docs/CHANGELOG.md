@@ -556,3 +556,4 @@
 2025-08-14 12:21:00 -0400 — docs: update invoice/receipt notes
 2025-08-14 13:20:00 -0400 — docs: clarify admin/tenant flows
 2025-08-14 14:49:00 -0400 — docs: update invoice/receipt notes
+2025-08-15 10:00:00 -0400 — docs: refine requirements & scope
