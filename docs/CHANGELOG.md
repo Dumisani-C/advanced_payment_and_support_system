@@ -563,3 +563,4 @@
 2025-08-15 15:00:00 -0400 — docs: deployment steps tweak
 2025-08-18 14:01:00 -0400 — docs: note DB constraint or index idea
 2025-08-18 14:46:00 -0400 — docs: refine requirements & scope
+2025-08-18 15:46:00 -0400 — docs: expand legal/ethics notes
