@@ -566,3 +566,4 @@
 2025-08-18 15:46:00 -0400 — docs: expand legal/ethics notes
 2025-08-18 16:18:00 -0400 — docs: deployment steps tweak
 2025-08-18 16:52:00 -0400 — docs: update reporting/analytics notes
+2025-08-18 17:47:00 -0400 — docs: tidy CSS/UX notes
