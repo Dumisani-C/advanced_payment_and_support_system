@@ -561,3 +561,4 @@
 2025-08-15 11:14:00 -0400 — docs: refine requirements & scope
 2025-08-15 13:29:00 -0400 — docs: deployment steps tweak
 2025-08-15 15:00:00 -0400 — docs: deployment steps tweak
+2025-08-18 14:01:00 -0400 — docs: note DB constraint or index idea
