@@ -567,3 +567,4 @@
 2025-08-18 16:18:00 -0400 — docs: deployment steps tweak
 2025-08-18 16:52:00 -0400 — docs: update reporting/analytics notes
 2025-08-18 17:47:00 -0400 — docs: tidy CSS/UX notes
+2025-08-19 12:50:00 -0400 — docs: update testing scenarios
