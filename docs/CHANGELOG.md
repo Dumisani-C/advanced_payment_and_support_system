@@ -571,3 +571,4 @@
 2025-08-19 14:54:00 -0400 — docs: update testing scenarios
 2025-08-19 16:42:00 -0400 — docs: clarify admin/tenant flows
 2025-08-19 18:50:00 -0400 — docs: expand legal/ethics notes
+2025-08-20 12:21:00 -0400 — docs: expand legal/ethics notes
