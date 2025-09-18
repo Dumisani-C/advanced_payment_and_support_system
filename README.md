@@ -1,11 +1,32 @@
-******************************************************************************************
-************************Advanced Tenant Payment & Support System**************************
-******************************************************************************************
---->After extracting the advanced_tenant_payment_and_support_system file;
-1.Open your XAMPP Control Panel and start the "Apache" and "MySQL".
-2.Copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory. 
-3.Browse the PHPMyAdmin in a browser. i.e., http://localhost/phpmyadmin
-4.Browse the Advanced Tenant Payment & Support System in a browser. i.e., http://localhost/advanced_tenant_payment_and_support_system/
-******************************************************************************************
-******************************************************************************************
-******************************************************************************************
+# Advanced Payment & Support System (ATPSS)
+
+A PHP-based system for tenant payments and support requests (admin + tenant areas).
+
+## Features
+- Tenant payments, receipts, and invoices
+- Admin dashboard & audit notes
+- Basic email notifications (PHPMailer)
+- Exportable reports
+
+## Quick Start (XAMPP)
+1. Copy this folder into `C:\xampp\htdocs\advanced_payment_and_support_system`.
+2. Start **Apache** and **MySQL** in XAMPP.
+3. Open **phpMyAdmin** → create database: `atpss_db`.
+4. Import `database/ark_apartment.sql`.
+5. Visit: `http://localhost/advanced_payment_and_support_system/`
+
+## Configuration
+- `include/config.php` has DB connection details.
+- Host: http://localhost/phpmyadmin
+
+## Tech Stack
+- PHP 7+ (procedural), MySQL, PHPMailer, Bootstrap, DataTables
+
+## Folder Structure
+- `admin/` – admin UI
+- `tenant/` – tenant UI
+- `database/` – SQL dump(s)
+- `include/` – shared config & helpers
+- `images/`, `css/`, `webfonts/` – assets
+
+
