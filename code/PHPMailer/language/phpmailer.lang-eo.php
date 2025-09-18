@@ -25,3 +25,5 @@ $PHPMAILER_LANG['variable_set']         = 'Variablo ne pravalorizeblas aŭ ne re
 //$PHPMAILER_LANG['extension_missing']    = 'Extension missing: ';
 
 // [] 
+
+// [] 
