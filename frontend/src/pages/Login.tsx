@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
 import { login as apiLogin } from '../lib/api';
-import { Loader2, Mail, Lock, ArrowRight, Building2, Shield, Star, Zap, Check } from 'lucide-react';
+import { Loader2, Mail, Lock, ArrowRight, Building2, Shield, Star, Zap } from 'lucide-react';
 
 export default function Login() {
   const [email, setEmail] = useState('');
@@ -172,22 +172,6 @@ export default function Login() {
               )}
             </button>
           </form>
-
-          {/* Demo Credentials */}
-          <div className="mt-6 p-4 rounded-lg bg-slate-100 border border-slate-200">
-            <div className="flex items-start gap-3">
-              <Check className="w-5 h-5 text-indigo-600 mt-0.5" />
-              <div>
-                <p className="text-sm font-medium text-slate-700 mb-1">Demo Account</p>
-                <p className="text-xs text-slate-500">
-                  Email: <span className="text-slate-700 font-medium">apiembewe@gmail.com</span>
-                </p>
-                <p className="text-xs text-slate-500">
-                  Password: <span className="text-slate-700 font-medium">12345678</span>
-                </p>
-              </div>
-            </div>
-          </div>
 
           <p className="text-center text-slate-500 mt-6">
             Don't have an account?{' '}
